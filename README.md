@@ -1,4 +1,4 @@
-### Hi there 👋
+![dunes](https://user-images.githubusercontent.com/1220606/88268196-5a652d00-ccd2-11ea-8136-1cd55b989c30.jpg)
 
 <!--
 **kelvah/kelvah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
